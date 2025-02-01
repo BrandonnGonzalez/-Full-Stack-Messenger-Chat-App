@@ -6,7 +6,7 @@ To understand the code, please watch [this video]()!
 
 ## Setup Steps
 
-Setup this chat client in 3 steps below.
+Setup this chat client in 3 steps below..
 
 These steps assume you have already setup one of the server projects in `../server-*` (for example, `server-express`).
 
